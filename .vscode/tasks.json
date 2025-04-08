@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Setup Virtual Environment",
+        "type": "shell",
+        "command": "if (!(Test-Path 'venv')) { python -m venv venv }",
+        "problemMatcher": [],
+        "group": "build"
+      },
+      {
+        "label": "Activate venv (PowerShell)",
+        "type": "shell",
+        "command": ".\\venv\\Scripts\\Activate.ps1; Start-Sleep -s 1",
+        "problemMatcher": [],
+        "group": "build",
+        "dependsOn": ["Setup Virtual Environment"]
+      },
+      {
+        "label": "Start: Character Generation",
+        "type": "shell",
+        "command": "python -m generate_chars",
+        "group": "build"
+      },
+      {
+        "label": "Create DB Tables",
+        "type": "shell",
+        "command": "python -m create_tables",
+        "group": "build"
+      },
+      {
+        "label": "Update: Lore",
+        "type": "shell",
+        "command": "python -m update_lore",
+        "group": "build"
+      }
+    ]
+  }
+  
