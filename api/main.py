@@ -69,6 +69,11 @@ nonces = {}
 async def preflight_handler():
     return Response(status_code=200)
 
+@app.get("/")
+async def read_root():
+    return {"message": "Service is up and running!"}
+
+
 # Include the video router
 app.include_router(users.router)
 

@@ -1,25 +1,25 @@
-Name: Borin Stoneheart
+Name: Thalgrim Ironbrow
 Race: Dwarf
 Region: Grandoria
 
 Origin Story:
-Borin Stoneheart was born in the bustling underground city of Grandoria, known for its intricate network of mines and forges. Raised in a family of renowned gem cutters, Borin was expected to continue the family tradition. However, his fascination with the ancient tales of the Enigma of Dragons led him to pursue a different path. He became an explorer, delving into forgotten tunnels and uncovering relics of the past. His discoveries have not only enriched his knowledge but also brought him into contact with various races, fostering unexpected alliances. Despite the occasional tension with Elves over resource extraction, Borin's diplomatic skills have often smoothed over conflicts, earning him respect across Krovath.
+Thalgrim Ironbrow was born in the mountainous region of Grandoria, known for its rich mines and skilled craftsmen. Raised in a family of miners, Thalgrim was expected to follow in their footsteps. However, his life changed when he stumbled upon an ancient forge hidden deep within the mountains, believed to have been used by the legendary Giants. Fascinated by the history and power of the forge, Thalgrim dedicated himself to mastering the art of crafting weapons imbued with the essence of the mountains. His creations are now sought after across Krovath, though his methods remain a closely guarded secret. Despite occasional tensions with Elves over resource extraction, Thalgrim's diplomatic skills have helped maintain peace and foster trade alliances.
 
-Unique Trait: Carries a map etched on a dragon scale, believed to lead to hidden treasures.
+Unique Trait: Possesses a hammer forged from the heart of a meteorite, granting him the ability to channel celestial energy into his creations.
 
-Behaviour: Borin is curious and adventurous, often seen sketching maps of unexplored areas. He has a tendency to hum ancient Dwarven tunes when deep in thought, which can be distracting to others.
+Behaviour: Thalgrim is stoic and contemplative, often lost in thought about his next creation. He has a peculiar habit of speaking to his tools as if they were alive, which can be unsettling to those unfamiliar with his ways.
 
-Abilities: Borin wields a pickaxe that doubles as a weapon, enchanted to detect hidden passages and treasures. His skills in gem cutting allow him to craft powerful amulets that enhance his allies' abilities. Borin's knowledge of ancient lore aids him in deciphering cryptic symbols and unlocking magical barriers. He is accompanied by a small, loyal rock elemental named Pebble, who assists in navigating treacherous terrains and acts as a shield in battle.
+Abilities: Thalgrim wields a meteorite-forged hammer, capable of channeling celestial energy to enhance his strikes. His skills as a smith allow him to repair and enhance weapons on the battlefield, providing a tactical advantage to his allies. Thalgrim's knowledge of metallurgy is unparalleled, enabling him to craft armor that is both lightweight and incredibly durable. He is often accompanied by a mechanical raven, a gift from a Gnome friend, which serves as a scout and messenger.
 
-Additional Info: Gender: Male, Age: 135, Class: Explorer, Alignment: Chaotic Good, Weapon Type: Enchanted Pickaxe, Personal Goal: To uncover the secrets of the Enigma of Dragons.
+Additional Info: Gender: Male, Age: 145, Class: Smith/Warrior, Alignment: Neutral Good, Weapon Type: Hammer
 
-Visual Description: Borin stands at four feet with a sturdy, muscular build typical of Dwarves. His skin is a warm, earthy tone, and his hair is a deep chestnut, braided with silver threads. He wears rugged leather armor, designed for flexibility and adorned with intricate Dwarven runes. His pickaxe, always at his side, glows faintly when near hidden treasures. Pebble, his rock elemental companion, resembles a small boulder with glowing eyes, often perched on Borin's shoulder.
+Visual Description: Thalgrim stands at a stout four feet, with a broad, muscular build typical of his race. His skin is a deep, earthy tone, and his beard is a fiery red, braided with small metal rings. He wears a suit of intricately crafted armor, adorned with celestial motifs, reflecting his unique craft. His hammer, a masterpiece of meteorite-forged metal, glows faintly with an inner light. The mechanical raven perched on his shoulder is a testament to his collaboration with Gnomes, its eyes gleaming with intelligence.
 
 Positive Traits:
-  - Diplomatic - Skilled in negotiating and resolving conflicts.
-  - Resourceful - Able to make use of limited resources effectively.
+  - Resilient - Thalgrim's endurance allows him to withstand harsh conditions and long battles.
+  - Diplomatic - His ability to negotiate and maintain peace has earned him respect among various races.
 
 Negative Traits:
-  - Impulsive - Tends to act before fully considering the consequences.
-  - Distracted - Can become absorbed in his thoughts, ignoring immediate surroundings.
+  - Stubborn - Thalgrim can be inflexible in his methods, sometimes hindering collaboration.
+  - Reclusive - His tendency to isolate himself in his work can lead to misunderstandings with others.
 
